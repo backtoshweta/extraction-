@@ -1,0 +1,20 @@
+streamlit
+pandas
+pytesseract
+Pillow
+langchain
+langchain-community
+faiss-cpu
+ollama
+docx2txt
+pypdf
+unstructured
+openpyxl
+langchain-ollama
+pydantic
+fastapi
+uvicorn[standard]
+python-multipart
+Sentence-Transformers
+rank_bm25
+##ollama pull nomic-embed-text and ollama pull smollm
